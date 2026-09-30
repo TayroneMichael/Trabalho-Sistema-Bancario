@@ -63,7 +63,7 @@ O sistema realiza algumas validações básicas:
 **Disciplina:** INF101 - Programação de Computadores I  
 **Trabalho:** Sistema de Registro e Gestão de Contas Bancárias — Etapa 1  
 **Aluno:** Tayrone Michael Martins Abreu  
-**Matrícula:** 2660  
+**Matrícula:** 26690  
 **Instituição:** Centro Universitário de Viçosa — UNIVIÇOSA
 
 ## 🚀 Como executar
